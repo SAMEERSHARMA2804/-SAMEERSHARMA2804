@@ -69,35 +69,7 @@ I'm passionate about transforming ideas into intelligent software that creates r
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="/sameer-sharma-202a582b4/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:sameer2004jaipur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SAMEERSHARMA2804">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SAMEERSHARMA2804&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
 
 <!-- ========================= HERO SECTION END ========================= -->
 
