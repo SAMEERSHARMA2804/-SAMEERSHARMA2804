@@ -1,93 +1,123 @@
+<!-- ========================= HERO SECTION ========================= -->
+
 <h1 align="center">Hi 👋, I'm Sameer Sharma</h1>
 
 <h3 align="center">
-AI • Machine Learning • Data Science
+Artificial Intelligence • Machine Learning • Data Science
 </h3>
 
 <p align="center">
-Data & ML Intern @ Paytm
+🎓 B.Tech CSE (Data Science) | Manipal Institute of Technology Bengaluru
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making;Machine+Learning+Enthusiast;Data+Science+Student;Building+Intelligent+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+💼 Data & Machine Learning Intern @ Paytm
 </p>
 
+<p align="center">
+Building intelligent systems that solve real-world problems through AI, Machine Learning and Data.
+</p>
 
+<p align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+AI+Products;Data+Science+Explorer;Always+Learning+Always+Building" />
+
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm **Sameer Sharma**, a B.Tech Computer Science Engineering (Data Science) student at **Manipal Institute of Technology Bengaluru**.
+I'm **Sameer Sharma**, a Computer Science Engineering (Data Science) student at **Manipal Institute of Technology Bengaluru**.
 
-💼 Currently working as a **Data & Machine Learning Intern at Paytm**.
+Currently working as a **Data & Machine Learning Intern at Paytm**, where I contribute to data-driven solutions and machine learning workflows.
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, NLP, and Backend Engineering**.
+I enjoy building intelligent applications using **Machine Learning**, **Artificial Intelligence**, **Backend Engineering**, **Data Analytics**, and **FastAPI**.
 
-🚀 I enjoy building scalable AI applications, solving real-world problems, and continuously learning modern technologies.
+I'm passionate about transforming ideas into intelligent software that creates real-world impact. I enjoy learning new technologies, collaborating with teams, and continuously improving as an engineer.
 
-🎯 My long-term goal is to become a **Machine Learning Engineer** and contribute to impactful AI products.
-
+---
 
 ## 🚀 Current Focus
 
-- 🌱 Learning **Deep Learning, Generative AI & MLOps**
-- ⚡ Building end-to-end AI/ML applications
-- 📊 Exploring Data Engineering & Cloud
-- 💻 Practicing Data Structures & Algorithms
-- 🤝 Looking to contribute to Open Source
+- 🤖 Building production-ready AI applications
+- 📊 Machine Learning & Data Analytics
+- ⚡ FastAPI Backend Development
+- 🧠 Deep Learning & Generative AI
+- ☁️ AWS Cloud & MLOps
+- 💻 Data Structures & Algorithms
 
+---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### 👨‍💻 Languages
-- Python
-- C++
-- SQL
-- C
+### 🚀 Data & Machine Learning Intern
+**Paytm**
 
-### 🤖 AI & Machine Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
-- Pandas
-- NumPy
+- Working on data-driven solutions and machine learning workflows.
+- Building scalable data pipelines and analytics solutions.
+- Collaborating on real-world engineering problems.
 
-### ⚙️ Backend
-- FastAPI
-- Spring Boot (Learning)
+---
 
-### 🗄️ Databases
-- MySQL
-- Microsoft SQL Server
-- DuckDB
-- Kafka
+### 🤖 AI & Machine Learning Intern
+**Brainwave Matrix Solutions**
 
-### 🧰 Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
-- Postman
+- Developed machine learning models.
+- Worked on predictive analytics and data preprocessing.
+- Improved practical understanding of ML workflows.
 
-### ☁️ Cloud
-- AWS (Learning)
+---
 
-
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sameer-sharma-202a582b4/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<a href="mailto:sameer2004jaipur@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<a href="https://github.com/SAMEERSHARMA2804">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SAMEERSHARMA2804&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<!-- ========================= HERO SECTION END ========================= -->
+
+
+
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,github,mysql,postgres,mongodb,aws,vscode,jupyter,c,cpp,java" />
+
+</p>
+
+---
+
+# 💻 Machine Learning & Data Science
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
@@ -95,92 +125,201 @@ I'm **Sameer Sharma**, a B.Tech Computer Science Engineering (Data Science) stud
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚙️ Tools & Platforms
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
+---
 
-
-
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SAMEERSHARMA2804E&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAMEERSHARMA2804&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMEERSHARMA2804&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMEERSHARMA2804&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+---
 
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-sharma-202a582b4/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:sameer2004jaipur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/SAMEERSHARMA2804">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
+<!-- ========================= END ========================= -->
 
 
-## 🚀 Featured Projects
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
-| Project | Description |
-|---------|-------------|
-| 🚌 Smart Bus AI | AI-powered bus recommendation with ETA and crowd prediction |
-| 🛡️ Prompt Shield Plus | Hybrid ML system for detecting adversarial prompts |
-| 🎯 AI Career Path Recommender | NLP-based career recommendation system |
-| 📈 Telecom Churn Prediction | End-to-end ML pipeline with FastAPI & XGBoost |
-| 🩺 Diabetes Prediction | Machine Learning prediction system |
+# 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
+### 🚌 Smart Bus AI
+An AI-powered smart public transportation recommendation system that predicts ETA, crowd density, and optimal routes to improve the commuting experience.
 
-## 🌱 Currently Learning
+**Tech:** Python • Machine Learning • FastAPI • SQL
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Prompt Shield Plus
+A hybrid NLP-based security system designed to detect adversarial prompts and prompt injection attacks for safer AI applications.
+
+**Tech:** Python • NLP • Scikit-learn • FastAPI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 AI Career Path Recommender
+A personalized career recommendation platform that analyzes user skills and interests using NLP to suggest suitable career paths.
+
+**Tech:** Python • NLP • Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 📊 Telecom Churn Prediction
+An end-to-end machine learning pipeline for predicting customer churn with data preprocessing, model training, and deployment.
+
+**Tech:** Python • XGBoost • FastAPI
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft AI & Machine Learning Engineering Specialization
+
+🏅 IBM Data Science Professional Certificate
+
+🏅 IBM Data Analyst Professional Certificate
+
+---
+
+# 🏆 Achievements
+
+🥇 Data & Machine Learning Intern @ Paytm
+
+🏅 Executive Member — ACM Student Chapter
+
+🏅 General Secretary — SDIB Club
+
+🏅 Finalist in multiple technical competitions and hackathons
+
+---
+
+# 🌱 Currently Learning
 
 - 🤖 Large Language Models (LLMs)
-- 🧠 Deep Learning
+- ⚡ Retrieval-Augmented Generation (RAG)
 - ☁️ AWS Cloud
-- ⚙️ MLOps
 - 🐳 Docker & Kubernetes
-- 🚀 System Design
+- 📈 MLOps
+- 🏗️ System Design
 
-## 💡 Quote
+---
 
-> *"The best way to predict the future is to build it."*
+# 🎯 2026 Goals
+
+✅ Build production-ready AI applications
+
+✅ Contribute to Open Source
+
+✅ Publish impactful Machine Learning projects
+
+✅ Strengthen Data Structures & Algorithms
+
+✅ Secure a Software Development / Machine Learning Engineer role
+
+---
+
+# 📈 GitHub Journey
+
+```text
+2024  ███████░░░░ Started exploring AI & Data Science
+
+2025  ███████████ Built real-world ML projects
+
+2026  █████████████ Internship @ Paytm • Open Source • Placements
+```
+
+---
+
+# 💡 Philosophy
+
+> **"I enjoy building intelligent software that solves real-world problems through curiosity, consistency, and continuous learning."**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:sameer2004jaipur@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SAMEERSHARMA2804">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="42"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+If you find my work interesting, feel free to explore my repositories, connect with me, or collaborate on exciting AI and Machine Learning projects.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+
+<!-- ========================= END OF PROFILE ========================= -->
