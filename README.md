@@ -35,3 +35,41 @@ I'm **Sameer Sharma**, a B.Tech Computer Science Engineering (Data Science) stud
 - 📊 Exploring Data Engineering & Cloud
 - 💻 Practicing Data Structures & Algorithms
 - 🤝 Looking to contribute to Open Source
+
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python
+- C++
+- SQL
+- C
+
+### 🤖 AI & Machine Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- Pandas
+- NumPy
+
+### ⚙️ Backend
+- FastAPI
+- Spring Boot (Learning)
+
+### 🗄️ Databases
+- MySQL
+- Microsoft SQL Server
+- DuckDB
+- Kafka
+
+### 🧰 Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- Jupyter Notebook
+- Postman
+
+### ☁️ Cloud
+- AWS (Learning)
