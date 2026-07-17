@@ -73,7 +73,7 @@ I'm passionate about transforming ideas into intelligent software that creates r
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sameer-sharma-202a582b4/">
+<a href="/sameer-sharma-202a582b4/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
@@ -280,35 +280,9 @@ An end-to-end machine learning pipeline for predicting customer churn with data 
 
 ---
 
-# 🤝 Let's Connect
 
-<p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:sameer2004jaipur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SAMEERSHARMA2804">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="42"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
